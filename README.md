@@ -14,4 +14,4 @@ Developed using tools in javaScript such as window prompts, confirms, and alerts
 ## Screenshot and URL Link
 [Screenshot](./assets/images/Screen%20Shot%202022-04-23%20at%202.24.08%20PM.png)
 
-[URL]()
+[URL](https://edanahy22.github.io/passwordGenerator/)
